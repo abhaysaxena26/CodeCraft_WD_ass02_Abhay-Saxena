@@ -1,0 +1,166 @@
+*{
+    margin : 0%;
+    padding : 0%;
+    box-sizing : border-box;
+}
+body,html{
+    height : 100%;
+    width : 100%;
+    background-color: rgb(11,60,93);
+}
+h1{
+    font-size: 40px;
+    font-weight: 700;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgb(255,203,55);
+    margin-bottom: 20px;
+}
+.game-info{
+    color: rgb(35,87,137);
+    font-size: 20px;
+    font-weight:bolder;  
+}
+.game-info span{
+    position: absolute;
+    margin-left: 518px;
+}
+.btn{
+    margin-left: 35%;  
+}
+.btn1{
+    height: 50px;
+    width: 100px;
+    border-radius: 30px;
+    border : 2px solid white;
+    /* padding: 10px; */
+    font-weight: 600;
+    background-color: rgb(242,242,242);
+    cursor: pointer;
+    margin-right: 250px;
+}
+.btn2{
+    height: 50px;
+    width: 100px;
+    border : 2px solid white;
+    border-radius: 30px;
+    /* padding: 10px; */
+    font-weight: 600;
+    background-color: rgb(242,242,242);
+    cursor: pointer;
+    /* margin-left: 100px; */
+}
+.container{
+    height: 70%;
+    width: 40%;
+    background-color: rgb(255,203,5);
+    margin-left: 30%;
+    margin-top: 40px;
+    border: 4px solid black;
+}
+.row1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.row2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.row3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.mole{
+    /* height: 30px;
+    width: 50px; */
+    background-size: 125px;
+    background-image: url("https://media.geeksforgeeks.org/wp-content/uploads/20231130123541/mole.png");
+    object-fit: cover;
+}
+#mole1{
+    height: 130px;
+    width: 130px;
+    border-radius: 50%;
+    background-color: rgb(35,87,137);
+    margin: 10px;
+    border: 3px solid black;
+    cursor: pointer;
+}
+#mole2{
+    height: 130px;
+    width: 130px;
+    border-radius: 50%;
+    background-color: rgb(35,87,137);
+    margin: 10px;
+    border: 3px solid black;
+    cursor: pointer;
+}
+#mole3{
+    height: 130px;
+    width: 130px;
+    border-radius: 50%;
+    background-color: rgb(35,87,137);
+    margin: 10px;
+    border: 3px solid black;
+    cursor: pointer;
+}
+#mole4{
+    height: 130px;
+    width: 130px;
+    border-radius: 50%;
+    background-color: rgb(35,87,137);
+    margin: 10px;
+    border: 3px solid black;
+    cursor: pointer;
+}
+#mole5{
+    height: 130px;
+    width: 130px;
+    border-radius: 50%;
+    background-color: rgb(35,87,137);
+    margin: 10px;
+    border: 3px solid black;
+    cursor: pointer;
+}
+#mole6{
+    height: 130px;
+    width: 130px;
+    border-radius: 50%;
+    background-color: rgb(35,87,137);
+    margin: 10px;
+    border: 3px solid black;
+    cursor: pointer;
+}
+#mole7{
+    height: 130px;
+    width: 130px;
+    border-radius: 50%;
+    background-color: rgb(35,87,137);
+    margin: 10px;
+    border: 3px solid black;
+    cursor: pointer;
+}
+#mole8{
+    height: 130px;
+    width: 130px;
+    border-radius: 50%;
+    background-color: rgb(35,87,137);
+    margin: 10px;
+    border: 3px solid black;
+    cursor: pointer;
+}
+#mole9{
+    height: 130px;
+    width: 130px;
+    border-radius: 50%;
+    background-color: rgb(35,87,137);
+    margin: 10px;
+    border: 3px solid black;
+    cursor: pointer;
+}
+
